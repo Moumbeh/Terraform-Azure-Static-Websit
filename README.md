@@ -1,4 +1,4 @@
-# Terraform-Azure-Static-Websit
+# Terraform-Azure-Static-Website
 Hosting a static website using Azure storage account
 ## Step-01: Execute Terraform Commands 
 ```t
